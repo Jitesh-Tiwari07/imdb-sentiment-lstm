@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# TensorFlow / Model files (optional - you can include models if small)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Large files
+models/*.h5
+models/*.keras
+*.pb
+*.onnx
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
