@@ -196,16 +196,13 @@ Performance graphs are generated automatically after training.
 
 ## 📸 Application Preview
 
-Add screenshots inside the images folder and display them here:
 
-```markdown
-![App Screenshot](images/app_screenshot.png)
+<img width="1911" height="978" alt="image" src="https://github.com/user-attachments/assets/9a18366d-be53-4e23-b3f7-5968d3973258" />
 
-![Training Graph](images/accuracy_loss_graph.png)
-```
 
+<img width="1492" height="614" alt="image" src="https://github.com/user-attachments/assets/7e417b33-bd0f-4b8f-8337-d31ed68fb6ec" />
+(images/accuracy_loss_graph.png)
 ---
-
 
 ## ⭐ Support
 
