@@ -201,7 +201,7 @@ Performance graphs are generated automatically after training.
 
 
 <img width="1492" height="614" alt="image" src="https://github.com/user-attachments/assets/7e417b33-bd0f-4b8f-8337-d31ed68fb6ec" />
-(images/accuracy_loss_graph.png)
+
 ---
 
 ## ⭐ Support
