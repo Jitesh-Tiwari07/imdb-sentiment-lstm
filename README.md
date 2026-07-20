@@ -98,6 +98,8 @@ Training Samples: 25,000
 
 Testing Samples: 25,000
 
+BALANCED DATASET
+
 ---
 
 ## ⚙️ Technologies Used
